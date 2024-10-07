@@ -1,4 +1,4 @@
-🍕 Food Order Website
+🍕
 This is a fully responsive food order website built using HTML and CSS. It allows users to browse through food items and place orders conveniently on different devices.
 
 📝 Features
